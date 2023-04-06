@@ -12,3 +12,5 @@
 
 ----------------------
 ## Summary
+
+51% of reviews in the Vine program consisted of 5-star reviews whereas the percentage of non-Vine reviews is only 39%. This is a 12% difference of 5-star ratings between the unpaid and paid viewers, showing that there is a postivity bias within the reviewing program. To further the analysis it could be plausible to analyse the statistical distribution (mean, median, and mode) of all reviews (both Vine and Non-Vine).
